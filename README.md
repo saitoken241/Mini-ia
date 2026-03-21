@@ -91,6 +91,9 @@ This project is part of my personal portfolio for demonstrating Data Structures 
 
 ---
 
-**ken** Information Systems Student | Backend Developer 
+**ken**
 
-[LinkedIn]() | [GitHub](https://github.com/saitoken241)
+Backend Developer | Cybersecurity Enthusiast
+
+📧 []()
+🔗 LinkedIn: 
