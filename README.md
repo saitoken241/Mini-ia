@@ -72,7 +72,7 @@ As an Information Systems undergraduate, this project highlights my proficiency 
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/saitoken241/binary-tree-python.git
+git clone https://github.com/saitoken241/Mini-ia.git
 
 ```
 
@@ -95,5 +95,3 @@ This project is part of my personal portfolio for demonstrating Data Structures 
 
 Backend Developer | Cybersecurity Enthusiast
 
-📧 []()
-🔗 LinkedIn: 
